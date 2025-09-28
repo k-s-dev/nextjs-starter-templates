@@ -1,3 +1,5 @@
-# Templates
+# Nextjs Starter Templates
 
-## Template-01: [Nextjs simple auth](https://github.com/k-s-dev/nextjs-starter-templates/tree/01-nextjs-simple-auth)
+| Index  | Repo | Demo | Stack |
+| ---- | ---- | ----- | ---- |
+| Template 01 | [repo](https://github.com/k-s-dev/nextjs-starter-template-01) | [demo](https://nextjs-demo-ivory-eta.vercel.app/) | Nextjs 15 (App router), React 19, Prisma, Mantine UI, Authjs |
